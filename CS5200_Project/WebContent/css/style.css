@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #b2b2b2;
+}
+
+table {
+	margin: auto;
+	border-collapse: collapse;
+	background-color: #e60000;
+}
+
+table.input {
+	margin: 5px 0px;
+}
+
+table, td, th {
+	border: 2px solid black;
+	padding: 5px;
+}
+
+div.tile {
+	float: left;
+	margin-right: 40px;
+}
+
+div.noMargin {
+	margin-right: 0px;
+}
+
+li {
+	margin-bottom: 50px;
+}
+
+a.white {
+	color: white;
+}
+
+.red {
+	background-color: #e60000;
+}
+
+.tickets {
+	width: 900px;
+}
